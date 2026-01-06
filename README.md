@@ -3,7 +3,7 @@
 Predicting shipment delivery delays is a critical challenge in e-commerce logistics. This project utilizes machine learning to classify whether a shipment will reach its destination on time based on various logistical and customer tracking parameters.
 
 ## 🚀 Project Overview
-The "Orderrr" system leverages historical tracking data to provide actionable insights for logistics management. By predicting potential delays, businesses can proactively manage customer expectations and optimize their supply chain operations.
+This system leverages historical tracking data to provide actionable insights for logistics management. By predicting potential delays, businesses can proactively manage customer expectations and optimize their supply chain operations.
 
 
 ## 📊 Dataset Analysis
