@@ -1,13 +1,10 @@
-# Orderrr: E-commerce Shipment Delivery Prediction
+# E-commerce Shipment Delivery Prediction (ML)
 
 Predicting shipment delivery delays is a critical challenge in e-commerce logistics. This project utilizes machine learning to classify whether a shipment will reach its destination on time based on various logistical and customer tracking parameters.
 
 ## 🚀 Project Overview
 The "Orderrr" system leverages historical tracking data to provide actionable insights for logistics management. By predicting potential delays, businesses can proactively manage customer expectations and optimize their supply chain operations.
 
-## 👥 Contributors
-- **Anshath Ahamed**
-- **Mohamed Naseer Mohamed Afrtath**
 
 ## 📊 Dataset Analysis
 The dataset contains over 11,000 shipment records with features including:
@@ -39,6 +36,11 @@ The dataset contains over 11,000 shipment records with features including:
    - Used an 80/20 hold-out split for training and validation.
    - Evaluated models using Accuracy, Precision, Recall, F1-Score, and ROC-AUC.
 
+
+<img width="541" height="975" alt="Image" src="https://github.com/user-attachments/assets/1d478e90-4a24-4f69-9913-b06c1d79eaf8" />
+<img width="1088" height="653" alt="Image" src="https://github.com/user-attachments/assets/92a7c5f8-80b4-4590-9b10-1a891144e73d" />
+<img width="1085" height="649" alt="Image" src="https://github.com/user-attachments/assets/90067349-94c9-4c16-b63e-b87765a28848" />
+
 ## 🏆 Key Results
 | Model | Accuracy | Precision | ROC-AUC |
 | :--- | :--- | :--- | :--- |
@@ -55,5 +57,6 @@ The dataset contains over 11,000 shipment records with features including:
 - `Train.csv`: Original dataset.
 - `Preprocessed_Delivery.csv`: Cleaned and standardized dataset ready for production.
 
----
-*Created for the purpose of demonstrating advanced data science and machine learning capabilities in logistics.*
+## 👥 Contributors
+- Anshath Ahamed (anshath7@gmail.com)
+- Mohamed Naseer Mohamed Afrtath (mohamednaseermohamedafrath@gmail.com)
